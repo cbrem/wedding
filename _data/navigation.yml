@@ -4,3 +4,28 @@ main:
     url: /en/
   - title: "עברית"
     url: /he/
+
+en_nav:
+  - title: Schedule
+    url: /en/#schedule
+    children:
+      - title: May 31st, 2025
+        url: /en/#may-31st-2025
+      - title: June 1st, 2025
+        url: /en/#june-1st-2025
+  - title: Lodging
+    url: /en/#lodging
+    children:
+      - title: The Hoxton
+        url: /en/#the-hoxton-website
+      - title: Aloft Long Island City
+        url: /en/#aloft-long-island-city-website
+  - title: Travel
+    url: /en/#travel
+  - title: Ceremony
+    url: /en/#ceremony
+  - title: Reception
+    url: /en/#reception
+    children:
+      - title: Cookie Table
+        url: /en/#cookie-table
