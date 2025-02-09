@@ -8,9 +8,6 @@ gallery:
     image_path: /assets/images/gallery1.jpeg
   - url: /assets/images/gallery2.jpeg
     image_path: /assets/images/gallery2.jpeg
-
-sidebar:
-  nav: en_nav
 ---
 
 {% include gallery %}
