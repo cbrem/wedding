@@ -2,7 +2,17 @@
 rtl: true
 permalink: /he/
 locale: "he-IL"
+
+gallery:
+  - url: /assets/images/IMG_3379.jpeg
+    image_path: /assets/images/IMG_3379.jpeg
+  - url: /assets/images/gallery2.jpeg
+    image_path: /assets/images/gallery2.jpeg
+  - url: /assets/images/IMG_4749.jpeg
+    image_path: /assets/images/IMG_4749.jpeg
 ---
+
+{% include gallery %}
 
 # לו"ז 
 ## 31 במאי, 2025  
