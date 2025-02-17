@@ -41,7 +41,7 @@ The special rates at these hotels are good for the night of 5/31.
 
 The reception, breakfast, and the Hoxton Hotel are in Williamsburg, Brooklyn. The other hotel (Aloft) is nearby in Long Island City.
 
-We recommend flying into Laguardia Airport (LGA) or JFK Airport, or taking the train to or Penn Station.
+We recommend flying into Laguardia Airport (LGA) or JFK Airport, or taking the train to Penn Station.
 
 # Ceremony
 
@@ -59,4 +59,4 @@ We'll have Israeli food, dancing, Tel Aviv-style photo magnets, and a cookie tab
 
 A cookie table is a traditional Pittsburgh alternative to a wedding cake. Guests bake their own cookies, which we serve potluck-style at the reception.
 
-Contributing to the cookie table is entirely optional! If you're interested please drop off your cookies with [Hannah Brem](mailto:hannahbrem@gmail.com) (NYC) or [Beverly Brem](mailto:beverlybrem@gmail.com) (Pittsburgh) by May 27, 2025.
+Contributing to the cookie table is entirely optional! If you're interested, please drop off your cookies with [Hannah Brem](mailto:hannahbrem@gmail.com) (NYC) or [Beverly Brem](mailto:beverlybrem@gmail.com) (Pittsburgh) by May 27, 2025.
