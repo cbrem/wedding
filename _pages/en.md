@@ -25,6 +25,10 @@ gallery:
 ## June 1st, 2025
 **8:30-11:30am** &nbsp; Goodbye Brunch @ [K'Far](https://www.kfarbrooklyn.com/)
 
+## May 24-31, 2026
+
+Tentative date for our reception in Tel Aviv, Israel. **Please note that this date has changed!**
+
 # Lodging
 
 ## The Hoxton ([Website](https://thehoxton.com/williamsburg/))
