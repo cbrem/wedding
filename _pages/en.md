@@ -55,6 +55,10 @@ After the ceremony, join us at [Moabet](https://moabetbrooklyn.com/) to celebrat
 
 We'll have Israeli food, dancing, Tel Aviv-style photo magnets, and a cookie table.
 
+## Attire
+
+Cocktail attire. For reference, Natalie will be wearing sequins, and Connor will be wearing a suit.
+
 ## Cookie Table
 
 A cookie table is a traditional Pittsburgh alternative to a wedding cake. Guests bake their own cookies, which we serve potluck-style at the reception.
