@@ -68,3 +68,11 @@ Cocktail attire. For reference, Natalie will be wearing sequins, and Connor will
 A cookie table is a traditional Pittsburgh alternative to a wedding cake. Guests bake their own cookies, which we serve potluck-style at the reception.
 
 Contributing to the cookie table is entirely optional! If you're interested, please drop off your cookies with [Hannah Brem](mailto:hannahbrem@gmail.com) (NYC) or [Beverly Brem](mailto:beverlybrem@gmail.com) (Pittsburgh) by May 27, 2025.
+
+# Registry
+
+We are blessed to have everything we need, and your attendance is enough of a gift.
+
+If you absolutely insist on giving us something, we will accept cash or [Venmo](https://venmo.com/u/Connor-Brem).
+
+Multiples of $18 are appreciated, as 18 is a symbol of a good, long life in Jewish numerology (18 and "life" are both spelled חי).
