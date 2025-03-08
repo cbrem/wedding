@@ -37,7 +37,7 @@ Tentative date for our reception in Tel Aviv, Israel. **Please note that this da
 
 ## Aloft Long Island City ([Website](https://aloftlongislandcitymanhattanview.com))
 * 3 miles from the reception. A 15-minute drive, or an 8-minute ride on the G train.
-* Call +1-718-433-9305 and mention "Connor and Natalie's Wedding" for the block rate.
+* Book through [this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1741380771270&key=GRP&guestreslink2=true&app=resvlink) for the block rate.
 
 The special rates at these hotels are good for the night of 5/31.
 

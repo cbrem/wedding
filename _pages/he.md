@@ -32,7 +32,7 @@ gallery:
 
 ## Aloft Long Island City
 • נמצא 5 ק״מ ממקום קבלת האירוע – 15 דקות נסיעה או 8 דקות נסיעה בקו G של הרכבת  
-• ניתן להתקשר ל-+1-718-433-9305 ולציין "החתונה של קונור ונטלי" כדי לקבל את המחיר המיוחד  
+• [לחץ כאן](https://www.marriott.com/event-reservations/reservation-link.mi?id=1741380771270&key=GRP&guestreslink2=true&app=resvlink) כדי לקבל את המחיר המיוחד
 
 המחירים המיוחדים באלו המלונות תקפים ללילה של **31 במאי**  
 
