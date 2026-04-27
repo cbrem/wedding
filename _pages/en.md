@@ -12,6 +12,8 @@ gallery:
 
 {% include gallery %}
 
+# Wedding Part II: Israel
+
 We're excited to share Israel with you!
 
 If you need any more information other than what's here, please reach out to us directly. We're more than happy to help you plan your trip.

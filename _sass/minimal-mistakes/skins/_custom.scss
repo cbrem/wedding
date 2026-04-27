@@ -3,11 +3,11 @@
    ========================================================================== */
 
 /* Colors */
-$primary-color: #0092ca !default;
-$background-color: #ffffff !default;
-$text-color: $primary-color !default;
-$muted-text-color: #393e46 !default;
-$border-color: $primary-color !default;
+$primary-color: #2e6da4 !default;
+$background-color: $primary-color !default;
+$text-color: #ffffff !default;
+$muted-text-color: rgba(255, 255, 255, 0.75) !default;
+$border-color: rgba(255, 255, 255, 0.3) !default;
 $footer-background-color: $background-color !default;
 $link-color: mix(#000, $text-color, 20%) !default;
 $masthead-link-color: $text-color !default;
