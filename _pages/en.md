@@ -4,10 +4,10 @@ permalink: /en/
 locale: "en-US"
 
 gallery:
-  - url: /assets/images/IMG_3379.jpeg
-    image_path: /assets/images/IMG_3379.jpeg
-  - url: /assets/images/IMG_0011.jpeg
-    image_path: /assets/images/IMG_0011.jpeg
+  - url: /assets/images/DSC08901.jpeg
+    image_path: /assets/images/DSC08901.jpeg
+  - url: /assets/images/DSC09030.jpeg
+    image_path: /assets/images/DSC09030.jpeg
 ---
 
 {% include gallery %}
@@ -20,9 +20,9 @@ If you need any more information other than what's here, please reach out to us 
 
 # Schedule
 
-**Aug 29th, 2026 @ 7:30pm** &nbsp; Henna Ceremony @ Prof. [8 Yuval Na'aman Street](https://maps.app.goo.gl/vz27TtGvCCnQdGVR6), Tel-Aviv-Yafo, Israel
+**Saturday, Aug 29th, 2026 @ 7:30pm** &nbsp; Henna Ceremony @ [8 Prof. Yuval Na'aman Street](https://maps.app.goo.gl/vz27TtGvCCnQdGVR6), - Tel-Aviv-Yafo, Israel
 
-**Sep 3rd, 2026 @ 7pm** &nbsp; Wedding @ [Acosta](https://www.acosta.co.il/) - Uriel da Costa St 7, Tel Aviv-Yafo, Israel
+**Thursday, Sep 3rd, 2026 @ 7pm** &nbsp; Wedding @ [Acosta](https://www.acosta.co.il/) - Uriel da Costa St 7, Tel Aviv-Yafo, Israel
 
 # Lodging
 
