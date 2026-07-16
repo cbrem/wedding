@@ -6,9 +6,9 @@ locale: "he-IL"
 
 gallery:
 
-* url: /assets/images/DSC08901.JPG
+- url: /assets/images/DSC08901.JPG
   image_path: /assets/images/DSC08901.JPG
-* url: /assets/images/DSC09030.JPG
+- url: /assets/images/DSC09030.JPG
   image_path: /assets/images/DSC09030.JPG
 
 ---
