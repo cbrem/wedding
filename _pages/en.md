@@ -20,7 +20,7 @@ If you need any more information other than what's here, please reach out to us 
 
 # Schedule
 
-**Aug 30th, 2026 @ 7pm** &nbsp; Henna Ceremony @ [Tal by the Beach](https://www.atlas.co.il/our-hotels/boutique-hotels-in-tel-aviv/tal-hotel-tel-aviv/) - HaYarkon St 287, Tel Aviv-Yafo, Israel
+**Aug 29th, 2026 @ 7:30pm** &nbsp; Henna Ceremony @ Prof. [8 Yuval Na'aman Street](https://maps.app.goo.gl/vz27TtGvCCnQdGVR6), Tel-Aviv-Yafo, Israel
 
 **Sep 3rd, 2026 @ 7pm** &nbsp; Wedding @ [Acosta](https://www.acosta.co.il/) - Uriel da Costa St 7, Tel Aviv-Yafo, Israel
 
@@ -38,7 +38,7 @@ You can also take a taxi (we recommend the Gett app).
 
 # Henna Ceremony
 
-A Henna is a traditional Morrocan-Jewish engagement ceremony. Expect food, dancing and henna!
+A Henna is a traditional Morrocan-Jewish engagement ceremony. Expect food, dancing and henna. The event is being hosted at my cousin's, Nissim and Dorit Zimber, apartment. 
 
 # Wedding
 
