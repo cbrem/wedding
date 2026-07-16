@@ -4,10 +4,10 @@ permalink: /he/
 locale: "he-IL"
 
 gallery:
-  - url: /assets/images/IMG_3379.jpeg
-    image_path: /assets/images/IMG_3379.jpeg
-  - url: /assets/images/IMG_0011.jpeg
-    image_path: /assets/images/IMG_0011.jpeg
+  - url: /assets/images/DSC08901.jpeg
+    image_path: /assets/images/DSC08901.jpeg
+  - url: /assets/images/DSC09030.jpeg
+    image_path: /assets/images/DSC09030.jpeg
 ---
 
 {% include gallery %}
