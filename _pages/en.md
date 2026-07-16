@@ -4,10 +4,10 @@ permalink: /en/
 locale: "en-US"
 
 gallery:
-  - url: /assets/images/DSC08901.jpeg
-    image_path: /assets/images/DSC08901.jpeg
-  - url: /assets/images/DSC09030.jpeg
-    image_path: /assets/images/DSC09030.jpeg
+  - url: /assets/images/DSC08901.JPG
+    image_path: /assets/images/DSC08901.JPG
+  - url: /assets/images/DSC09030.JPG
+    image_path: /assets/images/DSC09030.JPG
 ---
 
 {% include gallery %}
