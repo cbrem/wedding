@@ -38,7 +38,7 @@ You can also take a taxi (we recommend the Gett app).
 
 # Henna Ceremony
 
-A Henna is a traditional Morrocan-Jewish engagement ceremony. Expect food, dancing and henna. The event is being hosted at my cousin's, Nissim and Dorit Zimber, apartment. 
+A Henna is a traditional Morrocan-Jewish engagement ceremony. Expect food, dancing and henna.
 
 # Wedding
 
